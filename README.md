@@ -10,7 +10,7 @@
 npm install
 ```
 
-- Next, in the terminal, run npm start to run the simple program that will perform simple arithemtic on predetermined parameters.
+- Next, in the terminal, run npm start to run the program that will perform simple arithemtic on predetermined parameters.
 ``` npm
 npm start
 ```
