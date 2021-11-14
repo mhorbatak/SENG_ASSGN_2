@@ -3,7 +3,7 @@
 ## How to Run the Program
 - Clone the GitHub repository, https://github.com/mhorbatak/SENG_ASSGN_2, into your local computer or project.
 
-- Open the the project folder in your IDE.
+- Open the project folder in your IDE.
 
 - Run the following command in your terminal, npm install, to ensure dependencies are installed
 ``` npm
