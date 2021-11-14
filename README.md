@@ -19,4 +19,4 @@ npm start
 
 - GitHub Repo: https://github.com/michaeldferns/basic-math
 
-This library was very easy to implement and use in my program. This library was hosted on NPM and the documentation provided clear understanding how to perform the npm command to install into your program. The library was well written and documented and required no modification to implement into my program. 
+This library was very easy to implement and use in my program. This library was hosted on NPM and the documentation provided clear understanding how to perform the npm command to install the library. The library was well documented and required no modification to implement into my program. 
