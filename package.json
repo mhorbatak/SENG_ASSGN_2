@@ -1,0 +1,22 @@
+{
+  "name": "seng_assgn_2",
+  "version": "1.0.0",
+  "description": "SENG 560 Programming Assignment 2",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhorbatak/SENG_ASSGN_2.git"
+  },
+  "author": "Mike Horbatak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhorbatak/SENG_ASSGN_2/issues"
+  },
+  "homepage": "https://github.com/mhorbatak/SENG_ASSGN_2#readme"
+}
