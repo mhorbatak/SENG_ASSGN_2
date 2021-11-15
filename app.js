@@ -9,7 +9,7 @@ var add = basicMath.add(a, b)
 console.log(a + " + " + b +" = " + add);
 
 
-// Subraction function
+// Subtraction function
 
 var a = 100;
 var b = 10
