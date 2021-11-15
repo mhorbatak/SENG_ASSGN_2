@@ -23,8 +23,8 @@ console.log(a + " - " + b +" = " + subtract);
 var a = 25;
 var b = 4;
 
-var multipy = basicMath.multiply(a, b);
-console.log(a + " * " + b +" = " + multipy);
+var multiply = basicMath.multiply(a, b);
+console.log(a + " * " + b +" = " + multiply);
 
 // Divide function
 
