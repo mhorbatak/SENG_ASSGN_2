@@ -1,7 +1,7 @@
 # Mike Horbatak - SENG 560 - Programming Assignment 2
 
 ## How to Run the Program
-- Clone the GitHub repository, https://github.com/mhorbatak/SENG_ASSGN_2, into your local computer or project.
+- Clone the GitHub repository, https://github.com/mhorbatak/SENG_ASSGN_2, to your local computer or project.
 
 - Open the project folder in your IDE.
 
