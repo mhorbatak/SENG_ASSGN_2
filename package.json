@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "SENG 560 Programming Assignment 2",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "@mferns/basic-math": "^1.0.2"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node app.js",
